@@ -6,12 +6,6 @@ Projet Mathématiques
 	**Cahier des charges :** Coder un programme calculant la transformé rapide de fourier de n'importe quel fonction
 	**Langage choisit :** C avec bibliothèques GTK+ (interface graphique)
 
-	**Equipe :** 
-		* CACHELOU Christopher <chris.esiea@gmail.com>
-		* CAZEAU Isabelle <cazeau.isabelle@gmail.com>
-		* CORBINEAU Nadia <nadia.corbineau@gmail.com>
-		* BRUHIERE Thibaut <tbruhiere@gmail.com>
-
 
 
 
